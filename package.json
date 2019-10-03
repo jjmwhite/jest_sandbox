@@ -1,0 +1,26 @@
+{
+  "name": "testing_sandbox",
+  "version": "0.0.1",
+  "description": "testing sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "jjmwhite",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^24.0.18",
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "jest": "^24.9.0",
+    "moxios": "^0.4.0",
+    "node": "^12.11.0"
+  }
+}
