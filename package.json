@@ -4,7 +4,8 @@
   "description": "testing sandbox",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "test-watch": "jest --watch --verbose"
   },
   "repository": {
     "type": "git",
